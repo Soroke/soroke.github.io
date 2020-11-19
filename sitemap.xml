@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.soroke.top/lib/canvas-ribbon/README.html</loc>
+    <loc>https://blog.soroke.top/2020/11/18/%25E4%25BD%25BF%25E7%2594%25A8docker%25E5%2592%258Cdocker-compose%25E5%2590%25AF%25E5%258A%25A8Jenkins/</loc>
     
-    <lastmod>2020-11-19T03:12:34.836Z</lastmod>
+    <lastmod>2020-11-19T09:22:51.836Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.soroke.top/2020/11/18/%25E4%25BD%25BF%25E7%2594%25A8docker%25E5%2592%258Cdocker-compose%25E5%2590%25AF%25E5%258A%25A8Jenkins/</loc>
+    <loc>https://blog.soroke.top/about/index.html</loc>
     
-    <lastmod>2020-11-19T01:09:08.919Z</lastmod>
+    <lastmod>2020-11-19T09:16:54.349Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/categories/index.html</loc>
+    
+    <lastmod>2020-11-19T09:16:52.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/tags/index.html</loc>
+    
+    <lastmod>2020-11-19T09:14:40.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/lib/canvas-ribbon/README.html</loc>
+    
+    <lastmod>2020-11-19T03:12:34.836Z</lastmod>
     
   </url>
   
