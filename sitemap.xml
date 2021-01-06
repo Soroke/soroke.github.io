@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.soroke.top/2021/01/06/git-command-use/</loc>
+    
+    <lastmod>2021-01-06T06:35:10.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/2021/01/06/centos7-nimi-install-mysql/</loc>
+    
+    <lastmod>2021-01-06T06:34:55.131Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/2021/01/06/Ubuntu-Server-16-04-LTS-install-postgresql10/</loc>
+    
+    <lastmod>2021-01-06T06:34:38.707Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/2020/11/19/Harbor%25E5%25B9%25B3%25E5%258F%25B0%25E6%2590%25AD%25E5%25BB%25BA%25E5%25AE%2589%25E8%25A3%2585/</loc>
+    
+    <lastmod>2020-12-11T08:08:53.852Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/2020/11/20/intellij%25E6%25BF%2580%25E6%25B4%25BB%25E5%25B7%25A5%25E5%2585%25B7-2020-1-3%25E5%258F%258A%25E4%25B9%258B%25E5%2589%258D%25E7%2589%2588%25E6%259C%25AC%25E6%259C%2589%25E6%2595%2588/</loc>
+    
+    <lastmod>2020-12-11T08:08:17.888Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.soroke.top/2020/11/18/%25E4%25BD%25BF%25E7%2594%25A8docker%25E5%2592%258Cdocker-compose%25E5%2590%25AF%25E5%258A%25A8Jenkins/</loc>
+    
+    <lastmod>2020-12-11T08:07:30.861Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.soroke.top/2020/12/05/navicatInstallWindows/</loc>
     
     <lastmod>2020-12-05T10:24:31.200Z</lastmod>
@@ -26,34 +68,6 @@
     <loc>https://blog.soroke.top/2020/11/27/installDocker/</loc>
     
     <lastmod>2020-11-27T09:05:47.258Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.soroke.top/2020/11/25/%25E9%25BC%2593%25E5%258A%25B1%25E8%2580%2581%25E5%25BC%259F/</loc>
-    
-    <lastmod>2020-11-27T06:25:26.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.soroke.top/2020/11/20/intellij%25E6%25BF%2580%25E6%25B4%25BB%25E5%25B7%25A5%25E5%2585%25B7-2020-1-3%25E5%258F%258A%25E4%25B9%258B%25E5%2589%258D%25E7%2589%2588%25E6%259C%25AC%25E6%259C%2589%25E6%2595%2588/</loc>
-    
-    <lastmod>2020-11-27T06:25:26.527Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.soroke.top/2020/11/18/%25E4%25BD%25BF%25E7%2594%25A8docker%25E5%2592%258Cdocker-compose%25E5%2590%25AF%25E5%258A%25A8Jenkins/</loc>
-    
-    <lastmod>2020-11-20T01:20:54.542Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.soroke.top/2020/11/19/Harbor%25E5%25B9%25B3%25E5%258F%25B0%25E6%2590%25AD%25E5%25BB%25BA%25E5%25AE%2589%25E8%25A3%2585/</loc>
-    
-    <lastmod>2020-11-20T01:20:54.538Z</lastmod>
     
   </url>
   
